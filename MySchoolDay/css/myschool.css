@@ -1,0 +1,73 @@
+body {
+	background-color:#4CAF50
+}
+#bannerpic {
+	float: right;
+	margin: 0 0 10px 10px;
+	border-style: ridge;
+	border-width: 10px;
+	border-color: #0000ff;
+	padding: 5px;
+	box-shadow: 10px 5px 8px;
+}
+.floatclear {
+	clear: both;
+}
+#banner {
+	margin-left: 25px
+}
+#aboutmebutton {
+	background-color: #2196f3;
+	color: white;
+	font-size: 1.5em;
+	border-radius: 12px;
+}
+#aboutmeinfo {
+	color: #FF0000;
+	background-color: #DDFFFF
+}
+#moveover {
+	margin-left: 25px;
+}
+#aboutmebutton:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,255,0.50), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.mousechange {
+	text-shadow: 8px 8px 50px #000000;
+}
+.video {
+	margin-left: 40%;
+	border-style: ridge;
+	border-width: 10px;
+	border-color: #FFFF00;
+}
+table, th, td {
+	border: 1px solid black;
+	padding: 5px;
+	/*border-collapse: collapse;*/
+}
+table {
+	border-spacing: 15px;
+	margin: auto;
+	border: 5px solid black;
+}
+th, td {
+	padding: 30px;
+	text-align: center;
+}
+th {
+	background-color: #0000FF;
+}
+td {
+	background-color: #EEEEEE;
+}
+.pCenter {
+	text-align: center;
+}
+.piccenter {
+	border-style: groove;
+	border-width: 5px;
+	border-color: #673AB7;
+	padding: 1em;
+	box-shadow: 8px 8px 
+}
